@@ -1,0 +1,1 @@
+AUTH_TOKEN = "hUse your key found in huggingface setting"
